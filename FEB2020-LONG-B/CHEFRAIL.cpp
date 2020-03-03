@@ -24,7 +24,7 @@ int main()
     	ll yflag=0;
     	for(ll i=0;i<xcount;i++){
     		cin>>xarr[i];
-    	}
+    	}//hi
     	for(ll i=0;i<ycount;i++){
     		cin>>yarr[i];
     	}
